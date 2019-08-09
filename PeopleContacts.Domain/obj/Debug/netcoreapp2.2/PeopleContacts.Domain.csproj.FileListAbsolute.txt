@@ -1,0 +1,8 @@
+C:\Projetos\PeopleContacts\PeopleContacts.Domain\bin\Debug\netcoreapp2.2\PeopleContacts.Domain.deps.json
+C:\Projetos\PeopleContacts\PeopleContacts.Domain\bin\Debug\netcoreapp2.2\PeopleContacts.Domain.dll
+C:\Projetos\PeopleContacts\PeopleContacts.Domain\bin\Debug\netcoreapp2.2\PeopleContacts.Domain.pdb
+C:\Projetos\PeopleContacts\PeopleContacts.Domain\obj\Debug\netcoreapp2.2\PeopleContacts.Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\PeopleContacts\PeopleContacts.Domain\obj\Debug\netcoreapp2.2\PeopleContacts.Domain.AssemblyInfoInputs.cache
+C:\Projetos\PeopleContacts\PeopleContacts.Domain\obj\Debug\netcoreapp2.2\PeopleContacts.Domain.AssemblyInfo.cs
+C:\Projetos\PeopleContacts\PeopleContacts.Domain\obj\Debug\netcoreapp2.2\PeopleContacts.Domain.dll
+C:\Projetos\PeopleContacts\PeopleContacts.Domain\obj\Debug\netcoreapp2.2\PeopleContacts.Domain.pdb

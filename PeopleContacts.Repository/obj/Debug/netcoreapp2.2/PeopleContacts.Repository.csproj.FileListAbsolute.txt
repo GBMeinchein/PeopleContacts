@@ -1,0 +1,14 @@
+C:\Projetos\PeopleContacts\PeopleContacts.Repository\bin\Debug\netcoreapp2.2\PeopleContacts.Repository.deps.json
+C:\Projetos\PeopleContacts\PeopleContacts.Repository\bin\Debug\netcoreapp2.2\PeopleContacts.Repository.runtimeconfig.json
+C:\Projetos\PeopleContacts\PeopleContacts.Repository\bin\Debug\netcoreapp2.2\PeopleContacts.Repository.runtimeconfig.dev.json
+C:\Projetos\PeopleContacts\PeopleContacts.Repository\bin\Debug\netcoreapp2.2\PeopleContacts.Repository.dll
+C:\Projetos\PeopleContacts\PeopleContacts.Repository\bin\Debug\netcoreapp2.2\PeopleContacts.Repository.pdb
+C:\Projetos\PeopleContacts\PeopleContacts.Repository\bin\Debug\netcoreapp2.2\PeopleContacts.Domain.dll
+C:\Projetos\PeopleContacts\PeopleContacts.Repository\bin\Debug\netcoreapp2.2\PeopleContacts.Domain.pdb
+C:\Projetos\PeopleContacts\PeopleContacts.Repository\obj\Debug\netcoreapp2.2\PeopleContacts.Repository.csprojAssemblyReference.cache
+C:\Projetos\PeopleContacts\PeopleContacts.Repository\obj\Debug\netcoreapp2.2\PeopleContacts.Repository.csproj.CoreCompileInputs.cache
+C:\Projetos\PeopleContacts\PeopleContacts.Repository\obj\Debug\netcoreapp2.2\PeopleContacts.Repository.AssemblyInfoInputs.cache
+C:\Projetos\PeopleContacts\PeopleContacts.Repository\obj\Debug\netcoreapp2.2\PeopleContacts.Repository.AssemblyInfo.cs
+C:\Projetos\PeopleContacts\PeopleContacts.Repository\obj\Debug\netcoreapp2.2\PeopleContacts.Repository.csproj.CopyComplete
+C:\Projetos\PeopleContacts\PeopleContacts.Repository\obj\Debug\netcoreapp2.2\PeopleContacts.Repository.dll
+C:\Projetos\PeopleContacts\PeopleContacts.Repository\obj\Debug\netcoreapp2.2\PeopleContacts.Repository.pdb
