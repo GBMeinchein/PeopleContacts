@@ -14,4 +14,8 @@
     <ProjectReference Include="..\PeopleContacts.Domain\PeopleContacts.Domain.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="DataManager\" />
+  </ItemGroup>
+
 </Project>
