@@ -9,5 +9,6 @@ namespace PeopleContacts.Domain.Entitys
         public long Id { get; set; }
         public string TipoContato { get; set; }
         public string EnderecoContato { get; set; }
+        public long PersonId { get; set; }
     }
 }

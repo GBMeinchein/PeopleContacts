@@ -6,3 +6,4 @@ C:\Projetos\PeopleContacts\PeopleContacts.Domain\obj\Debug\netcoreapp2.2\PeopleC
 C:\Projetos\PeopleContacts\PeopleContacts.Domain\obj\Debug\netcoreapp2.2\PeopleContacts.Domain.AssemblyInfo.cs
 C:\Projetos\PeopleContacts\PeopleContacts.Domain\obj\Debug\netcoreapp2.2\PeopleContacts.Domain.dll
 C:\Projetos\PeopleContacts\PeopleContacts.Domain\obj\Debug\netcoreapp2.2\PeopleContacts.Domain.pdb
+C:\Projetos\PeopleContacts\PeopleContacts.Domain\obj\Debug\netcoreapp2.2\PeopleContacts.Domain.csprojAssemblyReference.cache

@@ -1,8 +1,6 @@
-﻿using JetBrains.Annotations;
-using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.EntityFrameworkCore;
 using PeopleContacts.Domain;
 using PeopleContacts.Domain.Entitys;
-using System;
 
 namespace PeopleContacts.Repository
 {
